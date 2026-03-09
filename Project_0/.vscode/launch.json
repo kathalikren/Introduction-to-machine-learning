@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run current file (cwd = file)",
+      "type": "python",
+      "request": "launch",
+      "program": "${file}",
+      "cwd": "/Users/katharina.krenzer/Documents/Uni/ETH/Master/2. Semester/Courses/Intro to Machine Learning/Projects/Project_0",
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
